@@ -1,0 +1,10 @@
+uuid: 88d29d8e-2d8b-4775-bd31-b10c63a6549f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Q0hYjxO3nkaaqrRfXnX3Kx5MPktx3EueHEj36vP40dM
+id: published
+label: Published
+published: true
+default_revision: true
